@@ -1,0 +1,102 @@
+{
+    "type": "Assessment",
+    "grade": 5,
+    "ects": 6,
+    "links": [],
+    "tags": [],
+    "university": "UZH",
+    "name": "Informatics II (V+Ü) (Informatik II)",
+    "short_name": "Informatics II",
+    "uni_identifier": "50819883",
+    "semester-info": {
+        "registration_start": "2020-01-14T09:00:00.000Z",
+        "registration_end": "2020-03-13T23:00:00.000Z",
+        "cancellation_start": "2020-05-04T06:00:00.000Z",
+        "cancellation_end": "2020-05-17T22:00:00.000Z",
+        "period": 20201,
+        "credits": "6.00000",
+        "repeatability": "UZH_WWF",
+        "description": "Search and sorting algorithm, correctness and complexity of algorithms, pointers and C, lists, trees, hashing, dynamic programming, graphs.",
+        "content": null,
+        "audience": "Major and minor students.",
+        "objective": "Effective use and understanding of data structures and algorithms for software development.",
+        "materials": "Lecture slides. Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms, MIT Press and McGraw-Hill.",
+        "prerecognitions": "Programming knowledge as taught in Informatik I.",
+        "prerequisites": "Informatik I or equivalent knowledge.",
+        "grading": "SWISS_QUARTER_GRADES",
+        "lecture_notes": null,
+        "comment": null,
+        "assessment": null,
+        "test": "There are two midterms and the final exam. At the midterms and the final exam you are allowed to use one A4 sheet with your personal notes (both sides, hand written or printed) and a simple pocket calculator without text storage (such as TI-30 XII B/S). The midterms and the final exam are graded from 1 to 6 with quarter grades. The final grade is the weighted average of the two midterm grades and the final exam grade. The weight of the midterms is 20% each, and the weight of the final exam is 60%. A midterm grade is only considered if it exceeds the grade of the final exam.\r\n\r\nMidterm I: Monday March 23, 2020\r\nMidterm II: Monday April 27, 2020\r\nAssessment exams see:\r\nhttp://www.oec.uzh.ch/de/exams-messe\r\nDuration: 90 min",
+        "seats_restriction": null,
+        "structure": null,
+        "additional_information": null,
+        "waiting_list": null,
+        "credit_hours": null,
+        "event_series": [{
+            "category": "LECTURE_AND_EXERCISES",
+            "time_label": "irregular",
+            "comments": "Informatics II (V+Ü) (Informatik II)",
+            "people": [
+                "01055754"
+            ],
+            "id": "50978272"
+        }],
+        "olat": null,
+        "links": null,
+        "exam_literature": null,
+        "responsible": [{
+            "_id": "587f7c779926d09674766ade",
+            "name": "Dr. Michael Hanspeter Böhlen",
+            "university": "UZH",
+            "uni_identifier": "01055754",
+            "title": "Dr.",
+            "first_name": "Michael Hanspeter",
+            "last_name": "Böhlen",
+            "image": null,
+            "header_image": null,
+            "responsible": [
+
+            ],
+            "teaching": [
+
+            ]
+        }],
+        "instructors": [{
+            "important": true,
+            "id": "01055754",
+            "type": [
+                "LECTURE_AND_EXERCISES"
+            ],
+            "instructor": {
+                "_id": "587f7c779926d09674766ade",
+                "name": "Dr. Michael Hanspeter Böhlen",
+                "university": "UZH",
+                "uni_identifier": "01055754",
+                "title": "Dr.",
+                "first_name": "Michael Hanspeter",
+                "last_name": "Böhlen",
+                "image": null,
+                "header_image": null,
+                "responsible": [
+
+                ],
+                "teaching": [
+
+                ]
+            }
+        }],
+        "period_human": "FS20"
+    },
+    "faculty": "Wirtschaft",
+    "header_image": null,
+    "departments": null,
+    "courseCode": {
+        "series": "Informatics",
+        "identifier": "II",
+        "display": false,
+        "sortable_identfier": "0000000002"
+    },
+    "_id": "587d31f3ffe303674582e4fb",
+    "semester":"FS20"
+}

@@ -1,0 +1,208 @@
+{
+    "type": "Assessment",
+    "grade": 4.5,
+    "ects": 6,
+    "links": [],
+    "tags": [],
+    "university": "UZH",
+    "name": "Mikroökonomik I (V+Ü) (Microeconomics I)",
+    "short_name": "Mikroökonomik I",
+    "uni_identifier": "50038002",
+    "semester-info": [{
+        "registration_start": "2019-08-13T10:00:00.000Z",
+        "registration_end": "2019-10-12T00:00:00.000Z",
+        "cancellation_start": "2019-08-13T10:00:00.000Z",
+        "cancellation_end": "2019-10-12T00:00:00.000Z",
+        "period": 20192,
+        "credits": "9.00000",
+        "repeatability": "UZH_WWF",
+        "description": "Mikroökonomik I ist eine grundlegende Einführungsveranstaltung der Assessmentstufe für alle wirtschaftswissenschaftlichen Studienrichtungen (VWL, BWL, B&F)",
+        "content": null,
+        "audience": "Studierende der Assessmentstufe.",
+        "objective": "Die ökonomische Denkweise kennen lernen und auf gesellschaftliche und wirtschaftliche Fragen anwenden.",
+        "materials": "Pflichtlektüre: Robert H. Frank, Microeconomics and Behavior, McGraw- Hill.\r\nSiehe \"Links\" für die Verfügbarkeit der Pflichtlektüre in den Bibliotheken des Rechercheportals.\r\nWeitere Vorlesungsunterlagen findet man auf OLAT.",
+        "prerecognitions": "",
+        "prerequisites": "",
+        "grading": "SWISS_QUARTER_GRADES",
+        "lecture_notes": null,
+        "comment": null,
+        "assessment": null,
+        "test": "Leistungsüberprüfung durch schriftliche Klausur. Prüfungsdauer: 120 min Assessmentprüfungen siehe\r\nhttp://www.oec.uzh.ch/de/exams-messe\r\n\r\nWährend des Semesters besteht die Möglichkeit Zusatzpunkte zu sammeln, die in die finale Bewertung eingehen. Diese Zusatzpunkte können mit der Teilnahme an online self-assessments gesammelt werden.",
+        "seats_restriction": null,
+        "structure": null,
+        "additional_information": null,
+        "waiting_list": null,
+        "credit_hours": null,
+        "event_series": [{
+            "people": ["01107109"],
+            "category": "COURSE",
+            "time_label": "Thu 14:00-15:45, Fri 12:15-13:45, until 13.12.",
+            "comments": "Mikroökonomik I (V) (Microeconomics I)",
+            "id": "50946439"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 08:00-09:45, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946441"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 08:00-09:45, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946440"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 10:15-12:00, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946443"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 10:15-12:00, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946442"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 12:15-13:45, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946445"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 12:15-13:45, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946444"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 14:00-15:45, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946447"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Tue 14:00-15:45, 24.9. until 10.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946446"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Wed 08:00-09:45, 25.9. until 11.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946449"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Wed 08:00-09:45, 25.9. until 11.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946448"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Wed 10:15-12:00, 25.9. until 11.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946450"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Wed 12:15-13:45, 25.9. until 11.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946451"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Wed 14:00-15:45, 25.9. until 11.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946452"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Thu 12:15-13:45, 26.9. until 12.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946455"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Thu 12:15-13:45, 26.9. until 12.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946454"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Thu 12:15-13:45, 26.9. until 12.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946453"
+        }, {
+            "people": ["01025354"],
+            "category": "EXERCISES",
+            "time_label": "Thu 16:15-18:00, 26.9. until 12.12.",
+            "comments": "Mikroökonomik I (Ü) (Microeconomics I)",
+            "id": "50946456"
+        }],
+        "olat": null,
+        "links": null,
+        "exam_literature": null,
+        "responsible": [{
+            "_id": "5b46240c528699001a787ab9",
+            "title": "Dr.",
+            "first_name": "Ulf",
+            "last_name": "Zölitz",
+            "name": "Dr. Ulf Zölitz",
+            "university": "UZH",
+            "uni_identifier": "01107109",
+            "image": null,
+            "header_image": null,
+            "responsible": [],
+            "teaching": []
+        }],
+        "instructors": [{
+            "important": true,
+            "id": "01107109",
+            "type": ["COURSE"],
+            "instructor": {
+                "_id": "5b46240c528699001a787ab9",
+                "title": "Dr.",
+                "first_name": "Ulf",
+                "last_name": "Zölitz",
+                "name": "Dr. Ulf Zölitz",
+                "university": "UZH",
+                "uni_identifier": "01107109",
+                "image": null,
+                "header_image": null,
+                "responsible": [],
+                "teaching": []
+            }
+        }, {
+            "important": false,
+            "id": "01025354",
+            "type": ["EXERCISES"],
+            "instructor": {
+                "_id": "587f7b389926d0967476654c",
+                "name": "Wirtschaftswiss. Fakultät N.N.-Dozent",
+                "university": "UZH",
+                "uni_identifier": "01025354",
+                "title": "",
+                "first_name": "Wirtschaftswiss. Fakultät",
+                "last_name": "N.N.-Dozent",
+                "image": null,
+                "header_image": null,
+                "responsible": [],
+                "teaching": []
+            }
+        }],
+        "period_human": "HS19"
+    }],
+    "faculty": "Wirtschaft",
+    "departments": null,
+    "courseCode": {
+        "series": "Mikroökonomik",
+        "identifier": "I",
+        "display": false,
+        "sortable_identfier": "0000000001"
+    },
+    "_id": "587d0154de0b2561a5fd02fe",
+    "semester":"HS19"
+}

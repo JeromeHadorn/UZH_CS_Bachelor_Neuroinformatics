@@ -1,0 +1,129 @@
+{
+    "type": "Assessment",
+    "grade": 5.75,
+    "ects": 6,
+    "university": "UZH",
+    "name": "Informatik I (V+Ü) (Informatics I)",
+    "short_name": "Informatik I",
+    "uni_identifier": "50791765",
+    "semester-info": {
+        "registration_start": "2019-08-13T10:00:00.000Z",
+        "registration_end": "2019-10-12T00:00:00.000Z",
+        "cancellation_start": "2019-08-13T10:00:00.000Z",
+        "cancellation_end": "2019-10-12T00:00:00.000Z",
+        "period": 20192,
+        "credits": "6.00000",
+        "repeatability": "UZH_WWF",
+        "description": "Diese Lehrveranstaltung gibt eine Einführung in das Programmieren. Die Studierenden erlernen den Einsatz des Computers als Werkzeug zum Erstellen von Software. Anhand der Programmiersprache \"Python\" werden grundlegende Konzepte der Programmierung vermittelt, wie Zuweisungen, Kontrollstrukturen, Klassen und Objekte, sowie weiterführende Konzepte wie Vererbung und Polymorphismus.\r\nIn den Vorlesungen werden die theoretischen Lerninhalte durch zahlreiche Beispiele ergänzt, in denen die vorgestellten Konzepte in ihrer Anwendung demonstriert werden. Zusätzlich nehmen die Studierenden an regelmässigen Übungen teil, in denen die Studierenden selbständig Programme schreiben lernen.",
+        "content": null,
+        "audience": "Bachelor-Studierende in Informatik",
+        "objective": "Durch erfolgreiche Teilnahme an der Veranstaltung erarbeiten sich die Studierenden Kompetenzen in den folgenden Bereichen.\r\n\r\n* Analyse von Problemstellungen zur Erstellung von Software\r\n\r\n* Entwurf von Programmen und Algorithmen\r\n\r\n* Programmierung von Software\r\n\r\n* Grundlegende Konzepte von Hard- und Software",
+        "materials": "Bitte beachten Sie die \"Webseite des Moduls\" (http://www.ifi.uzh.ch/seal/teaching/courses/info1.html) und den zugehörigen \"OLAT Kurs\" (Link via Webseite des Moduls) für weitergehende Information zur Durchführung, sowie für die Unterlagen des Vorlesungs- und Übungsbetriebs.",
+        "prerecognitions": "Es werden mathematische Grundlagen aus der Matura und der sichere Umgang mit einem verbreiteten Betriebsystem (z.B. macOS, Linux oder Windows) vorausgesetzt. Es werden keine vorigen Programmierkenntnisse erwartet.",
+        "prerequisites": "",
+        "grading": "SWISS_QUARTER_GRADES",
+        "lecture_notes": null,
+        "comment": null,
+        "assessment": null,
+        "test": "Der Leistungsnachweis wird in einer Assessment-Prüfung am Ende des Semesters erbracht. Prüfungsdauer: 90min. Der Termin und Details zur Durchführung werden zu Beginn des Semesters auf der Webseite der wirtschaftswissenschaftlichen Fakultät\r\n(http://www.oec.uzh.ch/de/studies/general/exams.html) angekündigt.\r\nEs besteht die Möglichkeit einer freiwilligen Teilnahme an einem Bonussystem. Durch die kontinuierliche und erfolgreiche Teilnahme am Übungsbetrieb sowie durch die erfolgreiche Teilnahme an einem Zwischentest, Montag, 04.11.2019; 18:15-19:15 Uhr, kann ein Bonus von bis zu zwei Notenschritten (2 x 0.25) erarbeitet werden, der jedoch nur im Falle einer positiven Assessment- Prüfung angewendet wird. Weitere Details zum Bonussystem finden sie auf der \"Webseite des Moduls\" (http://www.ifi.uzh.ch/seal/teaching/courses/info1.html).",
+        "seats_restriction": null,
+        "structure": null,
+        "additional_information": null,
+        "waiting_list": null,
+        "credit_hours": null,
+        "event_series": [{
+            "people": ["01016835", "01025037", "01105769"],
+            "category": "LECTURE_AND_EXERCISES",
+            "time_label": "Tue 12:15-13:45, until 10.12., 4.11.: 18:15-19:15",
+            "comments": "Informatik I (V+Ü) (Informatics I)",
+            "id": "50945070"
+        }, {
+            "people": [],
+            "category": "EXAM",
+            "time_label": null,
+            "comments": "Der Leistungsnachweis wird in einer Assessment-Prüfung am Ende des Semesters erbracht. Prüfungsdauer: 90min. Der Termin und Details zur Durchführung werden zu Beginn des Semesters auf der Webseite der wirtschaftswissenschaftlichen Fakultät\r\n(http://www.oec.uzh.ch/de/studies/general/exams.html) angekündigt.\r\nEs besteht die Möglichkeit einer freiwilligen Teilnahme an einem Bonussystem. Durch die kontinuierliche und erfolgreiche Teilnahme am Übungsbetrieb sowie durch die erfolgreiche Teilnahme an einem Zwischentest, Montag, 04.11.2019; 18:15-19:15 Uhr, kann ein Bonus von bis zu zwei Notenschritten (2 x 0.25) erarbeitet werden, der jedoch nur im Falle einer positiven Assessment- Prüfung angewendet wird. Weitere Details zum Bonussystem finden sie auf der \"Webseite des Moduls\" (http://www.ifi.uzh.ch/seal/teaching/courses/info1.html).",
+            "id": "50791765-exam",
+            "smart": true
+        }],
+        "olat": null,
+        "links": null,
+        "exam_literature": null,
+        "responsible": [{
+            "_id": "587f86ec41da38994f5012d5",
+            "name": "Dr. Harald Gall",
+            "university": "UZH",
+            "uni_identifier": "01025037",
+            "title": "Dr.",
+            "first_name": "Harald",
+            "last_name": "Gall",
+            "image": null,
+            "header_image": null,
+            "responsible": [],
+            "teaching": []
+        }],
+        "instructors": [{
+            "important": true,
+            "id": "01016835",
+            "type": ["LECTURE_AND_EXERCISES"],
+            "instructor": {
+                "_id": "587f862241da38994f50112d",
+                "name": "Dr. Abraham Bernstein",
+                "university": "UZH",
+                "uni_identifier": "01016835",
+                "title": "Dr.",
+                "first_name": "Abraham",
+                "last_name": "Bernstein",
+                "image": null,
+                "header_image": null,
+                "responsible": [],
+                "teaching": []
+            }
+        }, {
+            "important": true,
+            "id": "01025037",
+            "type": ["LECTURE_AND_EXERCISES"],
+            "instructor": {
+                "_id": "587f86ec41da38994f5012d5",
+                "name": "Dr. Harald Gall",
+                "university": "UZH",
+                "uni_identifier": "01025037",
+                "title": "Dr.",
+                "first_name": "Harald",
+                "last_name": "Gall",
+                "image": null,
+                "header_image": null,
+                "responsible": [],
+                "teaching": []
+            }
+        }, {
+            "important": true,
+            "id": "01105769",
+            "type": ["LECTURE_AND_EXERCISES"],
+            "instructor": {
+                "_id": "595ea7c4ec809700178de892",
+                "title": "Dr. Ing.",
+                "first_name": "Sebastian",
+                "last_name": "Proksch",
+                "name": "Dr. Ing. Sebastian Proksch",
+                "university": "UZH",
+                "uni_identifier": "01105769",
+                "image": null,
+                "header_image": null,
+                "responsible": [],
+                "teaching": []
+            }
+        }],
+        "period_human": "HS19"
+    },
+    "faculty": "Wirtschaft",
+    "header_image": null,
+    "departments": null,
+    "courseCode": {
+        "series": "Informatik",
+        "identifier": "I",
+        "display": false,
+        "sortable_identfier": "0000000001"
+    },
+    "_id": "587fa84bfb791d9d62735e1d",
+    "semester":"HS19"
+}

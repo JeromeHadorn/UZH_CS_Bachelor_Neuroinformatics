@@ -1,0 +1,133 @@
+{
+    "type": "Assessment",
+    "description":"Introduction into formal methods and discrete mathematics for informatics. The content of the lecture covers the basic foundations of logic and mathematical reasoning on which computing and algorithms are built. The specific topics include: logic statements, predicate logic, mathematical reasoning, number theory, induction, sequences, set theory, functions, relations, counting and probability, graphs and trees, and runtime complexity analysis.",
+    "grade": 4.75,
+    "ects": 6,
+    "links": [],
+    "tags": [],
+    "university": "UZH",
+    "name": "Foundations of Computing I (L+E) (Formale Grundlagen der Informatik I)",
+    "short_name": "Foundations of Computing I",
+    "uni_identifier": "50821425",
+    "semester-info": {
+        "registration_start": "2020-01-14T09:00:00.000Z",
+        "registration_end": "2020-03-13T23:00:00.000Z",
+        "cancellation_start": "2020-05-04T06:00:00.000Z",
+        "cancellation_end": "2020-05-17T22:00:00.000Z",
+        "period": 20201,
+        "credits": "6.00000",
+        "repeatability": "UZH_WWF",
+        "content": null,
+        "audience": "Required for Bachelor students in Informatik (Assessmentstufe) as well as in the Minor of Informatics.",
+        "objective": "The students will learn the basics of formal methods, mathematical reasoning, proofing methods and formal notations and how to apply these in the context of computing and informatics.",
+        "materials": "Discrete Mathematics with Applications, by Susanna S. Epp, 4th Edition",
+        "prerecognitions": "",
+        "prerequisites": "",
+        "grading": "SWISS_QUARTER_GRADES",
+        "lecture_notes": null,
+        "comment": null,
+        "assessment": null,
+        "test": "To complete and pass this course, the participation and completion of several paper or online exercises is mandatory and required. Furthermore, two mandatory in-class midterm exams have to be completed with a sufficient overall score to be\r\nable to pass the course. The final exam determines the final grade, given the necessary exercises and midterms have been completed as required. The final exam takes 90min.\r\nDates see link: www.oec.uzh.ch/de/exams-messe Further details given in class and on the course's website.\r\nMidterm exam I: 26.03.20, 14:00-15:45\r\nMidterm exam II: 30.04.20, 14:00-15:45",
+        "seats_restriction": null,
+        "structure": null,
+        "additional_information": null,
+        "waiting_list": null,
+        "credit_hours": null,
+        "event_series": [{
+            "category": "COURSE",
+            "time_label": "Tue 16:15-18:00, Thu 14:00-15:45, until 19.5.",
+            "comments": "Foundations of Computing I (L) (Formale Grundlagen der Informatik I)",
+            "people": ["01033385", "01064885"],
+            "id": "50980377"
+        }, {
+            "category": "EXERCISES",
+            "time_label": "Thu 16:15-18:00, until 14.5.",
+            "comments": "Foundations of Computing I (E) (Formale Grundlagen der Informatik I)",
+            "people": ["01124307"],
+            "id": "50995008"
+        }, {
+            "category": "EXAM",
+            "time_label": null,
+            "comments": "To complete and pass this course, the participation and completion of several paper or online exercises is mandatory and required. Furthermore, two mandatory in-class midterm exams have to be completed with a sufficient overall score to be\r\nable to pass the course. The final exam determines the final grade, given the necessary exercises and midterms have been completed as required. The final exam takes 90min.\r\nDates see link: www.oec.uzh.ch/de/exams-messe Further details given in class and on the course's website.\r\nMidterm exam I: 26.03.20, 14:00-15:45\r\nMidterm exam II: 30.04.20, 14:00-15:45",
+            "people": [],
+            "id": "50821425-exam",
+            "smart": true
+        }],
+        "olat": null,
+        "links": null,
+        "exam_literature": null,
+        "responsible": [{
+            "_id": "587fa629fb791d9d62735c61",
+            "name": "Dr. Renato Pajarola",
+            "university": "UZH",
+            "uni_identifier": "01033385",
+            "title": "Dr.",
+            "first_name": "Renato",
+            "last_name": "Pajarola",
+            "image": null,
+            "header_image": null,
+            "responsible": [],
+            "teaching": []
+        }],
+        "instructors": [{
+            "important": true,
+            "id": "01033385",
+            "type": ["COURSE"],
+            "instructor": {
+                "_id": "587fa629fb791d9d62735c61",
+                "name": "Dr. Renato Pajarola",
+                "university": "UZH",
+                "uni_identifier": "01033385",
+                "title": "Dr.",
+                "first_name": "Renato",
+                "last_name": "Pajarola",
+                "image": null,
+                "header_image": null,
+                "responsible": [],
+                "teaching": []
+            }
+        }, {
+            "important": true,
+            "id": "01064885",
+            "type": ["COURSE"],
+            "instructor": {
+                "_id": "5883e65ea4d8ed010a3835f2",
+                "name": "Dr. Davide Scaramuzza",
+                "university": "UZH",
+                "uni_identifier": "01064885",
+                "title": "Dr.",
+                "first_name": "Davide",
+                "last_name": "Scaramuzza",
+                "image": null,
+                "header_image": null,
+                "responsible": [],
+                "teaching": []
+            }
+        }, {
+            "important": false,
+            "id": "01124307",
+            "type": ["EXERCISES"],
+            "instructor": {
+                "_id": "5e14e87fb6b93b03659a8e72",
+                "university": "UZH",
+                "uni_identifier": "01124307",
+                "title": "Master of Science",
+                "first_name": "Lars Erik",
+                "last_name": "Zawallich",
+                "name": "Master of Science Lars Erik Zawallich"
+            }
+        }],
+        "period_human": "FS20"
+    },
+    "faculty": "Wirtschaft",
+    "header_image": null,
+    "departments": null,
+    "courseCode": {
+        "series": "Foundations of Computing",
+        "identifier": "I",
+        "display": false,
+        "sortable_identfier": "0000000001"
+    },
+    "_id": "587d3184ffe303674582e490",
+    "semester":"FS20"
+}
