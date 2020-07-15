@@ -6,9 +6,12 @@
 
 </center>
 
-<div class="row">
-  <div class="column">
+<table>
+<tr>
 
+</tr>
+<tr>
+<td>
 This repository is summary of my Bachelor's degree at UZH. Showing all my visited courses, grades, some interesting projects and course work.
 
 I'm a Computer Science student and my degree is split in a major and minor program.
@@ -34,24 +37,17 @@ I'm a Computer Science student and my degree is split in a major and minor progr
 * <a href="https://www.oec.uzh.ch/en/studies/bachelor/it/sosy.html">Department of Informatics - Software Systems</a>
 * <a href="https://www.ini.uzh.ch/en/studies/bachelor.html">Institute of Neuroinformatics - Bachelor Minor</a>
   
-  </div>
-  <div class="column">
 
-<center><img width="40%" src="assets/overview.png"/></center>
-  </div>
-</div>
+</td>
+<td>
 
-<br>
+<center><img width="100%" src="assets/overview.png"/></center>
+
+</td>
+</tr>
+</table
+
+
 <a href="mailto:hadornjerome@gmail.com">Email Me</a> if you'd like me to remove properiaty content that might have slipped through.
 
 
-
-<style>
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 50%;
-}
-</style>

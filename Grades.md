@@ -1,5 +1,6 @@
 # Grades
 **Weighted Grade** 5
+
 **Swiss Grading System**
 > Switzerland holds a grade system comprising grades from 6, the highest grade, to 1, the lowest grade.
 The grade 4 stands for a sufficient achievement. Also half grades are given (and sometimes even
