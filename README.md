@@ -1,6 +1,6 @@
 <center>
 
-# University of Zurich Bsc. Computer Science & Neuroinformatics
+# University of Zurich B.Sc. Computer Science & Neuroinformatics
 
 
 </center>
