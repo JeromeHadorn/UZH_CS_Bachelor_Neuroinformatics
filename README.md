@@ -1,8 +1,7 @@
 <center>
 
-# UZH CS Bachelor with Neuroinformatics
+# University of Zurich Bsc. Computer Science & Neuroinformatics
 
-<img height="150px" src="assets/banner.png"/>
 
 </center>
 
