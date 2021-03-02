@@ -23,7 +23,7 @@ I'm pursuing a Computer Science Bachelor's it's split in a major and minor progr
 
 
 
-**Current Weighted Grade** 5
+**Current Weighted Grade** 5.2
 
 **Quick Links:**
 * 💯 <a href="./Grades.md">Grades<a>
